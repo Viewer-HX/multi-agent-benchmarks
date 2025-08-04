@@ -16,4 +16,7 @@ This repository provides a summary and comparison of the following key benchmark
 *   **SmartPlay**: For evaluating strategic reasoning and planning in game environments.
 *   **Who&When**: For failure attribution in multi-agent systems.
 
-For a detailed comparison and analysis of each benchmark, please see [Overview_of_Multi-Agent_System_Benchmarks.md](Overview_of_Multi-Agent_System_Benchmarks.md).
+For a detailed comparison and analysis of each benchmark, please see the following versions:
+
+*   [English Version](Overview_of_Multi-Agent_System_Benchmarks.md)
+*   [Chinese Version](多智能体系统基准评测概述.md)
